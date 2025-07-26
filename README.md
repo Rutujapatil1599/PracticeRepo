@@ -1,2 +1,2 @@
 # PracticeRepo
-This is my practive repository
+This is my practice repository
