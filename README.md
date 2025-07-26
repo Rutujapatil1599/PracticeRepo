@@ -1,2 +1,1 @@
-# PracticeRepo
-This is my practice repository
+rutuja pagal hai 
